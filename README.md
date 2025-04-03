@@ -19,7 +19,7 @@
 
 ### 🛠️ Current Projects
 - Building a home lab with vulnerable machines and AD simulation
-- Publishing pentest-style writeups from TryHackMe, CTFs, and forensic labs
+- Publishing writeups from TryHackMe, CTFs, and forensic labs
 - Scripting custom tools for enumeration and recon (Bash/Python)
 - Developing a GitHub portfolio to document tools, techniques, and methodologies
 
